@@ -11,3 +11,17 @@ C:\Users\emi\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreA
 C:\Users\emi\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.RazorTargetAssemblyInfo.cache
 C:\Users\emi\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.dll
 C:\Users\emi\source\repos\NetCoreApp\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.pdb
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.csproj.CoreCompileInputs.cache
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.RazorAssemblyInfo.cache
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.RazorAssemblyInfo.cs
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.AssemblyInfoInputs.cache
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.AssemblyInfo.cs
+D:\EmiGit\NetCoreAPI\NetCoreApp\bin\Debug\netcoreapp2.2\NetCoreApp.deps.json
+D:\EmiGit\NetCoreAPI\NetCoreApp\bin\Debug\netcoreapp2.2\NetCoreApp.runtimeconfig.json
+D:\EmiGit\NetCoreAPI\NetCoreApp\bin\Debug\netcoreapp2.2\NetCoreApp.runtimeconfig.dev.json
+D:\EmiGit\NetCoreAPI\NetCoreApp\bin\Debug\netcoreapp2.2\NetCoreApp.dll
+D:\EmiGit\NetCoreAPI\NetCoreApp\bin\Debug\netcoreapp2.2\NetCoreApp.pdb
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.RazorTargetAssemblyInfo.cache
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.dll
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.pdb
+D:\EmiGit\NetCoreAPI\NetCoreApp\obj\Debug\netcoreapp2.2\NetCoreApp.csprojAssemblyReference.cache

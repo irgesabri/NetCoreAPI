@@ -12952,11 +12952,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emi\\source\\repos\\NetCoreApp\\NetCoreApp\\NetCoreApp.csproj",
+      "projectUniqueName": "D:\\EmiGit\\NetCoreAPI\\NetCoreApp\\NetCoreApp.csproj",
       "projectName": "NetCoreApp",
-      "projectPath": "C:\\Users\\emi\\source\\repos\\NetCoreApp\\NetCoreApp\\NetCoreApp.csproj",
+      "projectPath": "D:\\EmiGit\\NetCoreAPI\\NetCoreApp\\NetCoreApp.csproj",
       "packagesPath": "C:\\Users\\emi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emi\\source\\repos\\NetCoreApp\\NetCoreApp\\obj\\",
+      "outputPath": "D:\\EmiGit\\NetCoreAPI\\NetCoreApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using NetCoreApp.DataAccess;
+using NetCoreApp.Formatter;
 
 namespace NetCoreApp
 {
@@ -27,7 +28,9 @@ namespace NetCoreApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddScoped<IProductDal, EfProductDal>();//Eklendi.
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddMvc(
+                options=>options.OutputFormatters.Add(new VcardOutputFormatter())
+                ).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
