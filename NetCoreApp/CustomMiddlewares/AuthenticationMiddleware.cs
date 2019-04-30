@@ -20,7 +20,6 @@ namespace NetCoreApp.CustomMiddlewares
         {
             string authHeader = context.Request.Headers["Authorization"];
             //basic sabri:12345
-            await _next(context);
             if (authHeader != null && authHeader.StartsWith("basic", StringComparison.OrdinalIgnoreCase))
             {
                 var token = authHeader.Substring(6).Trim();
@@ -35,6 +34,11 @@ namespace NetCoreApp.CustomMiddlewares
                     };
                     var identity = new ClaimsIdentity(claims);
                 }
+                else
+                {
+                    context.Response.StatusCode = 401;
+                }
+                await _next(context);
 
             }
         }

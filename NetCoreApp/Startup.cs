@@ -47,8 +47,9 @@ namespace NetCoreApp
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+          
             app.UseMiddleware<AuthenticationMiddleware>();
+            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
